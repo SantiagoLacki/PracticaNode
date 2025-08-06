@@ -15,5 +15,5 @@
   ],
   "author": "Lacki Sinclair Santiago",
   "license": "MIT",
-  "type": "module"
+  "type": "commonjs"
 }
